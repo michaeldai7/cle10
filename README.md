@@ -7,10 +7,10 @@
 3. Collect user data base, frequency and amied for
    
  Plan for research
-| Monday              | Tuesday             | Wednesday           | Thursday            | Friday              | Saturday | Sunday |
-| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | -------- | ------ |
-|                     |                     | [Oct 09](#Oct-09) | [Oct 10](#Oct-10) | [Oct 11](#Oct-11) |          |        |
-| [Oct 14](#Oct-14) | [Oct 15](#Oct-15) |                     |                     |                     |          |        |
+| Monday            | Tuesday           | Wednesday         | Thursday          | Friday            | Saturday | Sunday |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | -------- | ------ |
+|                   |                   | [Oct 09](#Oct-09) | [Oct 10](#Oct-10) | [Oct 11](#Oct-11) |          |        |
+| [Oct 14](#Oct-14) | [Oct 15](#Oct-15) |                   |                   |                   |          |        |
 
 ## Oct 09
 * List social medias
