@@ -1,2 +1,3 @@
 # How social media associated to people
-    ![world social network](https://github.com/michaeldai7/cle10/blob/master/social%20world.png)
+![social world](https://user-images.githubusercontent.com/43862422/46894453-6ea3a700-ce29-11e8-95df-44dc9c152336.png)
+
