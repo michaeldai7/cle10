@@ -1,2 +1,2 @@
 # How social media associated to people
-    ![world social network](https://cdn.statcdn.com/Statistic/275000/278414-blank-100.png)
+    ![world social network](https://www.google.ca/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
