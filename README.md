@@ -26,6 +26,5 @@
 * Organize markdown
 
 
-
 ## Oct 15 
 * Make sure it is accessible
