@@ -6,4 +6,4 @@
 #### Number of social network users worldwide from 2010 to 2021 in billions
 ![number of social network users worldwide from 2010 to 2021 in billions](https://user-images.githubusercontent.com/43862422/47163822-a6886f80-d2ab-11e8-91bb-e80047405fd9.png)
 ***
-[Back to index](cle10)
+[Back to index](../)
