@@ -1,9 +1,9 @@
 # Is social media getting more and more important to people's life?
 ****
 ## Index
-* #### [What is social media?](#What-is-social-media?)
-* #### [Why is social media useful](#Why-is-social-media-useful?)
-* #### [The trend of social media nowadays](#The-trend-of-social-media-nowadays)
+*  [What is social media?](#What-is-social-media?)
+*  [Why is social media useful](#Why-is-social-media-useful?)
+*  [The trend of social media nowadays](#The-trend-of-social-media-nowadays)
 ****
 ## What is social media?
 ![definition_of _social_media](https://user-images.githubusercontent.com/43862422/47154925-813e3600-d298-11e8-99f9-529e2ad80b3e.png)
