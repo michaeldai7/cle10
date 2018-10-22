@@ -1,3 +1,1 @@
-## Why is social media useful?
-***
-[Back to index](../)
+# As the Gr
